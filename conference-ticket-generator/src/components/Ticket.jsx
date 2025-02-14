@@ -54,7 +54,7 @@ function Ticket() {
 
                 {/* div holding ticket */}
 
-                <div className="eachTicket">
+                <div className="eachTiket">
                   <div>
                     {/* div holding background for ticket */}
                     <div className="bgImage">

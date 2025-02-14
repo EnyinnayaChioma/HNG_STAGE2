@@ -10,7 +10,6 @@ export default function App() {
         <Route path="/" element={<TicketSelection />} />
         <Route path="attendanceform" element={<AttendeeForm />} />
         <Route path ="ticket" element={ <Ticket />}/>
-       
       </Routes>
     </div>
   );
