@@ -83,8 +83,14 @@ border-radius: 12px;
 border: 1px solid rgba(213, 234, 0, 0.10);
 background: #FFF;
 }
+/* .container{
+  display: flex;
+flex-direction: column;
+align-items: center;
+gap: 48px;
+align-self: stretch;
+} */
 
-/*  */
 main{
   /* display: flex; */
 width: 700px;
@@ -249,7 +255,7 @@ border: 1px solid #24A0B5;
 background: rgba(3, 30, 33, 0.10);
 backdrop-filter: blur(2px);
 position: absolute;
-top: 25.5rem;
+top: 20.5rem;
 right: 49rem;
 }
 
